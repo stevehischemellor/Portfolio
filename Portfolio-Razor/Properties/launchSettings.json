@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "Portfolio_Razor": {
+    "PortfolioRazor": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

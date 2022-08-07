@@ -1,7 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Extensions.Logging;
 
-namespace Portfolio_Razor.Pages;
+namespace PortfolioRazor.Pages;
 public class PrivacyModel : PageModel
 {
     private readonly ILogger<PrivacyModel> _logger;
