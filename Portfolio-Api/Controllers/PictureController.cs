@@ -14,7 +14,7 @@ namespace PortfolioApi.Controllers
             _logger = logger;
         }
 
-        [HttpGet(Name = "GetWeatherForecast")]
+        [HttpGet(Name = "GetPicture")]
         public IEnumerable<string> Get()
         {
             return null;
